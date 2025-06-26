@@ -1,1 +1,2 @@
-# dsf-porto-hijir
+# porto-hijir-dsf
+HTML, CSS, JS only
