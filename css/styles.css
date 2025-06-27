@@ -596,7 +596,7 @@ button.next {
 }
 
 .my-picture {
-    height: 15rem;
+    height: auto;
     width: 11.25rem;
     border-radius: calc(infinity * 1px);
     filter: brightness(.8);
@@ -771,7 +771,7 @@ button.next {
 .about-image {
     position: relative;
     z-index: 10;
-    height: 15rem;
+    height: auto;
     width: 11.25rem;
     border-radius: calc(infinity * 1px);
     filter: brightness(.8);
